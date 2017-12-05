@@ -16,3 +16,4 @@ d Hera
 t 60
 c (prints "Average wait time: 35 minutes.  Party of 2, Odyssey not seated.")
 a (prints "36.6")
+q
